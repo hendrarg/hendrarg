@@ -159,7 +159,7 @@ interests   : AI in Testing · Automation Frameworks · CI/CD · Quality Enginee
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hendra-rizal-gunawan-93978018b/)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jendraljohn92@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Interview_README-000000?style=for-the-badge&logo=github&logoColor=white)](https://hendrarg.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://hendrarg.github.io)
 
 <br/>
 
