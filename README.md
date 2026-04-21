@@ -129,16 +129,6 @@ interests   : AI in Testing · Automation Frameworks · CI/CD · Quality Enginee
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hendrarg&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📜 Certifications
 
 | Certificate | Platform | Topic |
@@ -153,7 +143,7 @@ interests   : AI in Testing · Automation Frameworks · CI/CD · Quality Enginee
 ## 🎯 Testing Expertise
 
 ```
-✅ Functional Testing        ✅ Regression Testing       ✅ Smoke & Sanity Testing
+✅ Functional Testing        ✅ Regression Testing        ✅ Smoke & Sanity Testing
 ✅ Integration Testing       ✅ Performance Testing       ✅ Load & Stress Testing
 ✅ API Testing               ✅ Database Testing          ✅ Security Testing (Basic)
 ✅ Mobile Testing (Android)  ✅ Cross-platform Testing    ✅ UAT Support
@@ -167,10 +157,9 @@ interests   : AI in Testing · Automation Frameworks · CI/CD · Quality Enginee
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hendra-rizal-gunawan)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hendra-rizal-gunawan-93978018b/)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jendraljohn92@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-2E75B6?style=for-the-badge&logo=github&logoColor=white)](https://hendrarg.github.io)
-[![Interview README](https://img.shields.io/badge/Interview_README-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hendrarg/Interview)
+[![Portfolio](https://img.shields.io/badge/Interview_README-000000?style=for-the-badge&logo=github&logoColor=white)](https://hendrarg.github.io)
 
 <br/>
 
